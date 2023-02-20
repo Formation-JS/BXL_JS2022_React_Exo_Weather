@@ -1,0 +1,16 @@
+.form {
+    display: flex;
+    flex-direction: row;
+
+    align-items: baseline;
+}
+
+.form > input {
+    flex-grow: 1;
+}
+
+.form > label::after {
+    content: ':';
+    margin-left: 0.5ch;
+    margin-right: 0.5ch;
+}

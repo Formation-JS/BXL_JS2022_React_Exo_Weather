@@ -1,0 +1,12 @@
+.app-head {
+    display: flex;
+    flex-direction: row;
+    padding: 0.5em 1em ;
+    background-color: blueviolet;
+    color: whitesmoke;
+    font-size: 1.5rem;
+}
+
+.app-head p {
+    margin: 0;
+}

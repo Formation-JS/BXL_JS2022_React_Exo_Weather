@@ -1,0 +1,14 @@
+.app-foot {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    padding: 0.5em 1em ;
+    font-size: 0.9rem;
+    color: blueviolet;
+    border-top: 1px solid blueviolet;
+}
+
+.app-foot p {
+    margin: 0;
+}
